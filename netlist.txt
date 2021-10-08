@@ -1,0 +1,9 @@
+1 OR 2 1 0 0 c
+1 OR 2 1 1 1 d
+2 AND 2 1 c d e
+1 OR 2 1 1 1 f
+1 AND 2 1 1 1 g
+2 NAND 2 1 f g h
+3 NOR 2 1 e h z
+4 NOT 1 1 z y
+5 XNOR 2 1 y z out
